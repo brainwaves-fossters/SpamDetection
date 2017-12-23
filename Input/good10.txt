@@ -1,0 +1,2 @@
+The error that the other server returned was:
+554 delivery error: dd Sorry your message to sujan607@yahoo.com cannot be delivered. This account has been disabled or discontinued [#102]. -

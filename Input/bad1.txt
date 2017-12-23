@@ -1,0 +1,3 @@
+Hi,
+Welcome to Mojostreet - A whole new way of discovering your city.
+It helps you find places of interest based on your preferences and your friend recommendations.

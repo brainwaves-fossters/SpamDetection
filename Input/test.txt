@@ -1,0 +1,3 @@
+Hi!
+Welcome to "spam detection service".
+please paste your mail here.

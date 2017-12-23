@@ -1,0 +1,1 @@
+Google tried to deliver your message, but it was rejected by the server for the recipient domain yahoo.com by mta7.am0.yahoodns.net. [98.138.112.37].
